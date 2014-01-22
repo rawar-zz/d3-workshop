@@ -1,8 +1,9 @@
 -- load data
-userid_track_data = LOAD 'users_tracks_data.tsv' AS (user_id, country, artist_name, track_name);
+--userid_track_data = LOAD 'users_tracks_data.tsv' AS (user_id, country, artist_name, track_name);
+userid_track_data = LOAD 'users_tracks_data.tsv' AS (user_id:chararray, country:chararray, gender:chararray, age:int, artist_name:chararray, track_name:chararray);
 
 -- select the hole 100%
-userid_track_data_sample = SAMPLE userid_track_data 1;
+userid_track_data_sample = SAMPLE userid_track_data 0.5;
 
 -- group by country, artist_nane and track_name
 grouped_userid_track_data = GROUP userid_track_data_sample BY (country, artist_name, track_name);
@@ -21,6 +22,7 @@ top_10_by_country = FOREACH grouped_by_country {
 
 -- order countries by size
 ordered_by_country = ORDER top_10_by_country BY $0, $1, $2, $3 DESC;
+
 
 -- store results
 STORE ordered_by_country INTO 'ordered_by_country.tsv';
