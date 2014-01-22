@@ -1,0 +1,1227 @@
+  {
+    "name": "Top-10-per-Land", 
+    "children": [
+      {
+        "name": "Argentina", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "31", 
+                "size": 10916
+              }, 
+              {
+                "name": "29", 
+                "size": 2764
+              }, 
+              {
+                "name": "28", 
+                "size": 92369
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Armenia", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "25", 
+                "size": 21372
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Australia", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "18", 
+                "size": 4636
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "28", 
+                "size": 9176
+              }, 
+              {
+                "name": "22", 
+                "size": 9458
+              }, 
+              {
+                "name": "21", 
+                "size": 1850
+              }, 
+              {
+                "name": "16", 
+                "size": 35733
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Belgium", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "22", 
+                "size": 30580
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "21", 
+                "size": 61291
+              }, 
+              {
+                "name": "20", 
+                "size": 7360
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Brazil", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "35", 
+                "size": 19418
+              }, 
+              {
+                "name": "25", 
+                "size": 10538
+              }, 
+              {
+                "name": "22", 
+                "size": 5450
+              }, 
+              {
+                "name": "21", 
+                "size": 16891
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "42", 
+                "size": 5591
+              }, 
+              {
+                "name": "28", 
+                "size": 90931
+              }, 
+              {
+                "name": "23", 
+                "size": 114070
+              }, 
+              {
+                "name": "22", 
+                "size": 28750
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "British Indian Ocean Territory", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "30", 
+                "size": 22345
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Bulgaria", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "19", 
+                "size": 12624
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Canada", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "29", 
+                "size": 50623
+              }, 
+              {
+                "name": "20", 
+                "size": 39974
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "36", 
+                "size": 51377
+              }, 
+              {
+                "name": "28", 
+                "size": 4154
+              }, 
+              {
+                "name": "27", 
+                "size": 70446
+              }, 
+              {
+                "name": "24", 
+                "size": 6697
+              }, 
+              {
+                "name": "23", 
+                "size": 1416
+              }, 
+              {
+                "name": "21", 
+                "size": 58240
+              }, 
+              {
+                "name": "18", 
+                "size": 10427
+              }, 
+              {
+                "name": "17", 
+                "size": 19211
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Chile", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "30", 
+                "size": 41164
+              }, 
+              {
+                "name": "29", 
+                "size": 837
+              }, 
+              {
+                "name": "19", 
+                "size": 47814
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Croatia", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "19", 
+                "size": 7895
+              }, 
+              {
+                "name": "18", 
+                "size": 15198
+              }, 
+              {
+                "name": "17", 
+                "size": 20747
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Czech Republic", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "22", 
+                "size": 35568
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "21", 
+                "size": 22222
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Estonia", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "19", 
+                "size": 10599
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Finland", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "25", 
+                "size": 14189
+              }, 
+              {
+                "name": "21", 
+                "size": 21523
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "26", 
+                "size": 12900
+              }, 
+              {
+                "name": "24", 
+                "size": 144755
+              }, 
+              {
+                "name": "23", 
+                "size": 42428
+              }, 
+              {
+                "name": "21", 
+                "size": 51199
+              }, 
+              {
+                "name": "19", 
+                "size": 250
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "France", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "40", 
+                "size": 21489
+              }, 
+              {
+                "name": "30", 
+                "size": 2821
+              }, 
+              {
+                "name": "27", 
+                "size": 15270
+              }, 
+              {
+                "name": "25", 
+                "size": 16305
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Germany", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "27", 
+                "size": 4668
+              }, 
+              {
+                "name": "21", 
+                "size": 18973
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "38", 
+                "size": 9087
+              }, 
+              {
+                "name": "29", 
+                "size": 15829
+              }, 
+              {
+                "name": "23", 
+                "size": 21826
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Greece", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "22", 
+                "size": 2710
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "24", 
+                "size": 4550
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Hungary", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "34", 
+                "size": 39362
+              }, 
+              {
+                "name": "25", 
+                "size": 14639
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ireland", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "20", 
+                "size": 48803
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Italy", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "22", 
+                "size": 21896
+              }, 
+              {
+                "name": "21", 
+                "size": 22339
+              }, 
+              {
+                "name": "20", 
+                "size": 10903
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "33", 
+                "size": 647
+              }, 
+              {
+                "name": "26", 
+                "size": 38499
+              }, 
+              {
+                "name": "23", 
+                "size": 14076
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Japan", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "27", 
+                "size": 50
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Latvia", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "23", 
+                "size": 25669
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Mexico", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "29", 
+                "size": 27526
+              }, 
+              {
+                "name": "27", 
+                "size": 17455
+              }, 
+              {
+                "name": "21", 
+                "size": 4242
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "26", 
+                "size": 53160
+              }, 
+              {
+                "name": "21", 
+                "size": 312
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Morocco", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "22", 
+                "size": 19646
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Netherlands", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "19", 
+                "size": 3775
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "7", 
+                "size": 3150
+              }, 
+              {
+                "name": "29", 
+                "size": 8719
+              }, 
+              {
+                "name": "20", 
+                "size": 95
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "New Zealand", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "31", 
+                "size": 1700
+              }, 
+              {
+                "name": "25", 
+                "size": 9926
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Nicaragua", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "24", 
+                "size": 1676
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Norway", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "29", 
+                "size": 153
+              }, 
+              {
+                "name": "28", 
+                "size": 24962
+              }, 
+              {
+                "name": "21", 
+                "size": 302
+              }, 
+              {
+                "name": "19", 
+                "size": 6899
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "32", 
+                "size": 5441
+              }, 
+              {
+                "name": "31", 
+                "size": 22784
+              }, 
+              {
+                "name": "28", 
+                "size": 36151
+              }, 
+              {
+                "name": "24", 
+                "size": 13532
+              }, 
+              {
+                "name": "23", 
+                "size": 11514
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Peru", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "30", 
+                "size": 1548
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Poland", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "28", 
+                "size": 45165
+              }, 
+              {
+                "name": "27", 
+                "size": 13509
+              }, 
+              {
+                "name": "26", 
+                "size": 22048
+              }, 
+              {
+                "name": "24", 
+                "size": 25894
+              }, 
+              {
+                "name": "20", 
+                "size": 112940
+              }, 
+              {
+                "name": "18", 
+                "size": 21324
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "26", 
+                "size": 20179
+              }, 
+              {
+                "name": "22", 
+                "size": 23494
+              }, 
+              {
+                "name": "17", 
+                "size": 22417
+              }, 
+              {
+                "name": "15", 
+                "size": 25664
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Portugal", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "29", 
+                "size": 2500
+              }, 
+              {
+                "name": "23", 
+                "size": 46976
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Romania", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "25", 
+                "size": 8896
+              }, 
+              {
+                "name": "20", 
+                "size": 30618
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "21", 
+                "size": 1894
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Russian Federation", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "23", 
+                "size": 2000
+              }, 
+              {
+                "name": "21", 
+                "size": 28597
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "29", 
+                "size": 14373
+              }, 
+              {
+                "name": "20", 
+                "size": 32911
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Serbia", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "30", 
+                "size": 17985
+              }, 
+              {
+                "name": "21", 
+                "size": 15219
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Slovakia", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "22", 
+                "size": 20328
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "23", 
+                "size": 37235
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Spain", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "28", 
+                "size": 22593
+              }, 
+              {
+                "name": "24", 
+                "size": 15328
+              }, 
+              {
+                "name": "22", 
+                "size": 14952
+              }, 
+              {
+                "name": "21", 
+                "size": 1362
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "24", 
+                "size": 4288
+              }, 
+              {
+                "name": "23", 
+                "size": 28784
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Sweden", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "34", 
+                "size": 2850
+              }, 
+              {
+                "name": "22", 
+                "size": 6598
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "49", 
+                "size": 264
+              }, 
+              {
+                "name": "30", 
+                "size": 12131
+              }, 
+              {
+                "name": "27", 
+                "size": 25889
+              }, 
+              {
+                "name": "26", 
+                "size": 7292
+              }, 
+              {
+                "name": "21", 
+                "size": 39321
+              }, 
+              {
+                "name": "20", 
+                "size": 12558
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Switzerland", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "48", 
+                "size": 29569
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "22", 
+                "size": 13786
+              }, 
+              {
+                "name": "21", 
+                "size": 17253
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Thailand", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "20", 
+                "size": 13393
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Trinidad and Tobago", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "23", 
+                "size": 35563
+              }, 
+              {
+                "name": "21", 
+                "size": 74309
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Turkey", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "30", 
+                "size": 40265
+              }, 
+              {
+                "name": "28", 
+                "size": 6704
+              }, 
+              {
+                "name": "27", 
+                "size": 35217
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "35", 
+                "size": 73724
+              }, 
+              {
+                "name": "33", 
+                "size": 19085
+              }, 
+              {
+                "name": "30", 
+                "size": 7054
+              }, 
+              {
+                "name": "27", 
+                "size": 28997
+              }, 
+              {
+                "name": "25", 
+                "size": 68280
+              }, 
+              {
+                "name": "23", 
+                "size": 14331
+              }, 
+              {
+                "name": "22", 
+                "size": 64434
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "United Kingdom", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "28", 
+                "size": 17547
+              }, 
+              {
+                "name": "27", 
+                "size": 18436
+              }, 
+              {
+                "name": "22", 
+                "size": 35143
+              }, 
+              {
+                "name": "19", 
+                "size": 28574
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "42", 
+                "size": 27543
+              }, 
+              {
+                "name": "38", 
+                "size": 70269
+              }, 
+              {
+                "name": "34", 
+                "size": 33660
+              }, 
+              {
+                "name": "21", 
+                "size": 41852
+              }, 
+              {
+                "name": "20", 
+                "size": 76382
+              }, 
+              {
+                "name": "19", 
+                "size": 49698
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "United States", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "28", 
+                "size": 75876
+              }, 
+              {
+                "name": "27", 
+                "size": 48140
+              }, 
+              {
+                "name": "23", 
+                "size": 47978
+              }, 
+              {
+                "name": "19", 
+                "size": 88862
+              }
+            ]
+          }, 
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "36", 
+                "size": 89487
+              }, 
+              {
+                "name": "33", 
+                "size": 78150
+              }, 
+              {
+                "name": "26", 
+                "size": 78833
+              }, 
+              {
+                "name": "25", 
+                "size": 182016
+              }, 
+              {
+                "name": "23", 
+                "size": 58503
+              }, 
+              {
+                "name": "22", 
+                "size": 153445
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "United States Minor Outlying Islands", 
+        "children": [
+          {
+            "name": "f", 
+            "children": [
+              {
+                "name": "21", 
+                "size": 36712
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Venezuela", 
+        "children": [
+          {
+            "name": "m", 
+            "children": [
+              {
+                "name": "18", 
+                "size": 32148
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
